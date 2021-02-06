@@ -62,6 +62,10 @@ body {
   grid-gap: 20px;
 }
 
+.card-cntnr__header {
+  display: none;
+}
+
 .card {
   background-color: var(--white);
   border-radius: 10px;
